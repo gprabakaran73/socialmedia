@@ -1,4 +1,5 @@
 function test()
 {
-    alert('test');
+  var tester = "prabakaran";
 }
+test();
